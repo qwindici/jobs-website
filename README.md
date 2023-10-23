@@ -1,2 +1,2 @@
 # jobs-website
-A website to check for job
+A website to check for jobs
